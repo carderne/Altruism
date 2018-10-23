@@ -102,10 +102,6 @@ public class Frontend extends javax.swing.JFrame {
             }
         });
         
-        
-        
-        
-        
         ArrayList<Person> people = new ArrayList<>();
        
         int numPeople = Integer.parseInt(  JOptionPane.showInputDialog(null, "How many people to start with?", "Altruism", 3));
@@ -170,25 +166,6 @@ public class Frontend extends javax.swing.JFrame {
             textArea.setText(message);
             
         }
-       
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
     }
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JScrollPane jScrollPane1;
